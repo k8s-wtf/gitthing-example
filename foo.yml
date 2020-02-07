@@ -1,0 +1,9 @@
+genSha(repo, branch, path) 29834yr8374y58374y583745
+
+curl blabla.com/gitthing?repo=example?branch=master?path=/manifests
+curl blabla.com/gitthing?repo=example?branch=feature/foo?path=/manifests
+
+
+
+curl blabla.com/{predicablesha}:x
+
